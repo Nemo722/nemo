@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * @author mingLong.zhao
+ * @author Nemo
  */
 public class StreamExample {
 

@@ -6,7 +6,7 @@ import java.text.NumberFormat;
 import static java.text.NumberFormat.INTEGER_FIELD;
 
 /**
- * @author mingLong.zhao
+ * @author Nemo
  */
 public class CodeUtil {
 

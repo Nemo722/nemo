@@ -3,7 +3,7 @@ package com.nemo.example;
 import lombok.Data;
 
 /**
- * @author mingLong.zhao
+ * @author Nemo
  */
 @Data
 public class Example {

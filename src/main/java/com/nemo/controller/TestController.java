@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author mingLong.zhao
+ * @author Nemo
  */
 @RestController
 public class TestController {

@@ -5,7 +5,7 @@ import com.alibaba.fastjson.serializer.SerializerFeature;
 import com.nemo.example.Example;
 
 /**
- * @author mingLong.zhao
+ * @author Nemo
  */
 public class JsonExample {
 
